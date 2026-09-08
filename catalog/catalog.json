@@ -1,3 +1,61 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "category": "Utilities",
+      "license": "MIT",
+      "tags": [
+        "word processor",
+        "documents",
+        "writing",
+        "text editor",
+        "productivity",
+        "office",
+        "rich text",
+        "document editing"
+      ],
+      "shortDescription": "A simple, modern word processor for creating, editing, and formatting documents.",
+      "longDescription": "Documents is a simple, modern word processor built for CleraOS.\n\nCreate and edit documents without the complexity of traditional office suites. Documents focuses on the tools you actually need for everyday writing while keeping the interface clean, familiar, and easy to use.\n\n✍️ Write and edit\n\nCreate documents for notes, assignments, reports, letters, and everyday writing. Edit your content naturally with familiar text-editing tools.\n\n🎨 Format your documents\n\nApply formatting to your text and structure your documents without having to navigate through complicated menus or workflows.\n\n⚡ Simple by design\n\nDocuments isn’t trying to be a full enterprise office suite. It focuses on making writing and document editing straightforward, fast, and accessible.\n\nWrite. Edit. Format. Done.",
+      "links": {
+        "homepage": null,
+        "source": null,
+        "support": null
+      },
+      "id": "com.eirasmx.documents",
+      "name": "Documents",
+      "version": "1.0.0",
+      "entry": "index.html",
+      "runtime": "clera",
+      "permissions": [
+        "storage"
+      ],
+      "window": {
+        "width": 1100,
+        "height": 780,
+        "resizable": true
+      },
+      "downloadSize": 562479,
+      "changelog": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-08",
+          "notes": ""
+        }
+      ],
+      "uploaderLogin": "eirasmx",
+      "developer": "eirasmx",
+      "installCount": 0,
+      "appFileUrl": "packages/com.eirasmx.documents-1.0.0.app",
+      "icon": "icons/com.eirasmx.documents-1.0.0.png",
+      "screenshots": [
+        {
+          "url": "screenshots/com.eirasmx.documents-1.0.0-1.png",
+          "caption": ""
+        },
+        {
+          "url": "screenshots/com.eirasmx.documents-1.0.0-2.png",
+          "caption": ""
+        }
+      ]
+    }
+  ]
 }
