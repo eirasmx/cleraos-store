@@ -56,6 +56,55 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "category": "Utilities",
+      "license": "Proprietary",
+      "tags": [
+        "AI",
+        "assistant",
+        "productivity",
+        "knowledge",
+        "research",
+        "writing",
+        "Cortex",
+        "CleraOS"
+      ],
+      "shortDescription": "An intelligent workspace for thinking, researching, organizing ideas, and getting things done on CleraOS.",
+      "longDescription": "Cortex is an intelligent workspace built for CleraOS.\n\nDesigned to help you think, research, organize information, and work through ideas, Cortex brings intelligent assistance into your everyday computing environment.\n\n🧠 Think and explore\n\nUse Cortex to explore ideas, ask questions, work through problems, and turn scattered thoughts into something useful.\n\n🔎 Research and understand\n\nBring information together and use Cortex to help you understand, summarize, analyze, and explore what you’re working with.\n\n✍️ Work with your ideas\n\nWhether you’re planning a project, developing an idea, studying a topic, or simply trying to make sense of something, Cortex provides a workspace for thinking and exploration.\n\n🔒 Your workspace\n\nCortex is designed to be part of your CleraOS computing environment rather than another disconnected website you have to switch to.\n\nThink deeper. Explore ideas. Get things done.",
+      "links": {
+        "homepage": null,
+        "source": null,
+        "support": null
+      },
+      "id": "com.eirasmx.cortex",
+      "name": "Cortex",
+      "version": "1.0.0",
+      "entry": "chat.html",
+      "runtime": "clera",
+      "permissions": [
+        "storage",
+        "clipboard"
+      ],
+      "window": {
+        "width": 350,
+        "height": 565,
+        "resizable": false
+      },
+      "downloadSize": 284758,
+      "changelog": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-08",
+          "notes": ""
+        }
+      ],
+      "uploaderLogin": "eirasmx",
+      "developer": "eirasmx",
+      "installCount": 0,
+      "appFileUrl": "packages/com.eirasmx.cortex-1.0.0.app",
+      "icon": "icons/com.eirasmx.cortex-1.0.0.png",
+      "screenshots": []
     }
   ]
 }
